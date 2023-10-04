@@ -1,4 +1,5 @@
 using Microsoft.EntityFrameworkCore;
+using API.Net.Models;
 
 
 namespace API.Net.DataAccess
